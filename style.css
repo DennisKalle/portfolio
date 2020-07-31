@@ -427,13 +427,19 @@ kl
 
 @media (max-width: 890px) {
     .sport{
-      background-image: url(sportMobile.jpg);
+      background-image: url(sportMobile.jpg);        
     }
+    
     .gaming{
         background-image: url(gamingMobile.jpg);
         background-image: cover;
         background-color: rgba(128,128,128,0.1);
     }
+    
+    #like{
+        display:none;
+    }
+        
 }
 
 
