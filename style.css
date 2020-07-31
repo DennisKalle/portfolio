@@ -107,6 +107,7 @@ a:active {
 #like{
     max-width: 60%;
     height: auto;
+    max-height:400px;
     
 }
 
